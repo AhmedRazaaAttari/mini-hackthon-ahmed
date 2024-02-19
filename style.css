@@ -16,6 +16,7 @@ body{
 }
 .header{
 margin: 30px 75px;
+position: sticky;
 }
 .header span{
     color: #fd4c82;
@@ -80,4 +81,8 @@ border-radius: 5px;
 }
 .footerlast a{
     color: #fff;
+}
+.banner img{
+    width: 80%;
+    height: 90%;
 }
